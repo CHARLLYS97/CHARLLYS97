@@ -1,8 +1,4 @@
-## Olá!  Eu sou o Jhonny Charllys
-
-- 🔭 Hoje estou graduando em Tecnologia da informação 
-- 🌱 Estudando Power BI e Bancos de dados SQL
-- 😄 
+## Olá!  Eu sou o Jhonny Charllys  Graduando do 4º semestre da faculdade de Tecnologia da Informação
 
 <div align="center">
   <a href="https://github.com/charllys97">
