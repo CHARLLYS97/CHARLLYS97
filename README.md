@@ -1,4 +1,4 @@
-## Olá!  Eu sou o Jhonny Charllys  Graduando do 4º semestre da faculdade de Tecnologia da Informação
+## Olá!      Eu sou o Jhonny Charllys  Graduando do 4º semestre da faculdade de Tecnologia da Informação
 
 <div align="center">
   <a href="https://github.com/charllys97">
