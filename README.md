@@ -1,5 +1,10 @@
 ## Olá!      Eu sou o Jhonny Charllys 
+<!--HeloWorld-->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74499967/209347360-c9f35c2f-2e6e-4f6b-bb8b-0f4c182bbcc4.gif" width="500" height="500">
+</div>
+
+<div align="center"> 
   <a href="https://github.com/charllys97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charllys97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=dark"/>
