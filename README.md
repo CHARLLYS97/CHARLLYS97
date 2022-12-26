@@ -1,6 +1,6 @@
 ## Hello guys! I'm jhonny, Welcome to my github, a little corner that aims to share my personal and academic projects and everything related to my learning in software development. This profile is constantly changing, so it is possible that you will find it with projects still in progress. I'm always open for a chat about my learnings, technology and programming.
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://github.com/charllys97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charllys97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=dark"/>
