@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é  Jhonny</h1> Bem vindo ao meu github!  Um cantinho que viso compartilhar meus projetos pessoais e acadêmicos e tudo relacionado ao meu aprendizado em desenvolvimento de software e web. Esse perfil está em constante mudança, então é possível que você o encontre projetos ainda em andamento. Estou sempre aberto para um bate papo sobre meus aprendizados, tecnologia e programação.
+<h1>Olá, meu nome é  Jhonny</h1> Bem-vindo ao meu github!  Um cantinho que viso compartilhar meus projetos pessoais e acadêmicos e tudo relacionado ao meu aprendizado em desenvolvimento de software e web. Esse perfil está em constante mudança, então é possível que você o encontre projetos ainda em andamento. Estou sempre aberto para um bate papo sobre meus aprendizados, tecnologia e programação.
 <br><br>
 <div align="left"> 
   <a href="https://github.com/charllys97">
