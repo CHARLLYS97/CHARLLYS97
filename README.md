@@ -1,15 +1,18 @@
-## Hello guys! I'm jhonny, Welcome to my github, a little corner that aims to share my personal and academic projects and everything related to my learning in software development. This profile is constantly changing, so it is possible that you will find it with projects still in progress. I'm always open for a chat about my learnings, technology and programming.
-
-<div align="center"> 
+<h1>Olá, meu nome é  Jhonny</h1> Bem vindo ao meu github!  Um cantinho que viso compartilhar meus projetos pessoais e acadêmicos e tudo relacionado ao meu aprendizado em desenvolvimento de software e web. Esse perfil está em constante mudança, então é possível que você o encontre projetos ainda em andamento. Estou sempre aberto para um bate papo sobre meus aprendizados, tecnologia e programação.
+<br><br>
+<div align="left"> 
   <a href="https://github.com/charllys97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charllys97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=dark"/>
 </div>
     <!--HeloWorld-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74499967/209347360-c9f35c2f-2e6e-4f6b-bb8b-0f4c182bbcc4.gif" width="500" height="500">
 </div>
-
+  
+  <div align="right">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=dark"/>  
+  </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhonny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
