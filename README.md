@@ -3,7 +3,7 @@
 <!-- Header typing -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+%F0%9F%91%8B;I%27m+Jhonny+Charllys,+25+yo...;Nice+to+meet+you!&%20center=true%20size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+%F0%9F%91%8B;I%27m+Jhonny+Charllys,+25+yo...;Nice+to+meet+you!&%20center=true%20size=25">
   </a>
 </h1>
 
