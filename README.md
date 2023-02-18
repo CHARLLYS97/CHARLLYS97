@@ -1,20 +1,40 @@
-<h1>Olá, meu nome é  Jhonny</h1> Bem-vindo ao meu github!  Um cantinho que viso compartilhar meus projetos pessoais e acadêmicos e tudo relacionado ao meu aprendizado em desenvolvimento de software e web. Esse perfil está em constante mudança, então é possível que você o encontre projetos ainda em andamento. Estou sempre aberto para um bate papo sobre meus aprendizados, tecnologia e programação.
-<br><br>
-<div align="left"> 
-  <a href="https://github.com/charllys97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charllys97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-    <!--HeloWorld-->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74499967/209347360-c9f35c2f-2e6e-4f6b-bb8b-0f4c182bbcc4.gif" width="500" height="500">
-</div>
-  
-  <div align="right">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=dark"/>  
-  </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+%F0%9F%91%8B;I%27m+Jhonny+Charllys,+25+yo...;Nice+to+meet+you!&%20center=true%20size=25">
+  </a>
+</h1>
+
+
+<!-- Introdução -->
+## 💻 Breve introdução
+
+
+Olá!  Meu nome é [Jhonny Charllys](https://www.linkedin.com/in/jhonnycharllys/), Sou formado em Gestão Da Tecnologia Da Informação.
+
+
+Apaixonado pela tecnologia busco a minha primeira  oportunidade na área da programação. 
+
+Aberto para trabalhar.
+
+
+<!-- Currículo -->
+
+<!-- Status -->
+## ⚡ Estatísticas do GitHub
+
+<div style="display: inline_block">
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=charllys97&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" /> <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllys97&layout=compact&langs_count=7&theme=transparent"/>
+</div><br>
+
+<!-- Tecnologias -->
+## 👩‍💻Linguagens 
+
+
+<div style="display: inline_block">
+<img align="center" alt="Jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhonny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhonny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,13 +43,15 @@
   <img align="center" alt="Jhonny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+ ##
 
-  ##
   
-  <div> 
-  <a href = "mailto:jhonnycharllys31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div align="center"> 
+  <a href = "mailto:jhonnycharllys@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonnycharllys/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/charllys97/charllys97/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
