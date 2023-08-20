@@ -19,9 +19,7 @@
 
 ## 👨‍💻 Breve introdução
 
-Olá!  Meu nome é [Jhonny Charllys](https://www.linkedin.com/in/jhonnycharllys/), Sou formado em Gestão Da Tecnologia Da Informação.
-
-Apaixonado pela tecnologia busco a minha primeira  oportunidade na área da programação. 
+Olá! Sou  [Jhonny Charllys](https://www.linkedin.com/in/jhonnycharllys/) Apaixonado pela tecnologia sou  graduado em Gestão da Tecnologia da Informação e cursando Bacharelado em Ciência da computação, busco a minha primeira  oportunidade na área da programação. 
 
 Aberto para trabalhar.
 
